@@ -1,5 +1,5 @@
 ---
-name: Memo
+name: "\U0001F6C0 Memo"
 about: Create a todo memo
 title: "[MEMO]"
 labels: note_to_self

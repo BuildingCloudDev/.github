@@ -1,5 +1,5 @@
 ---
-name: "\U0001F680 Task"
+name: "\U0001F528 Task"
 about: Create a (general) task
 title: "[TASK]"
 labels: 
