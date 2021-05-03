@@ -1,5 +1,5 @@
 ---
-name: ":question: Question"
+name: "\U00002749 Question"
 about: Ask a question
 title: "[Q&A]"
 labels: project_management
