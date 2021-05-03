@@ -1,5 +1,5 @@
 ---
-name: Question
+name: ":question: Question"
 about: Ask a question
 title: "[Q&A]"
 labels: project_management
