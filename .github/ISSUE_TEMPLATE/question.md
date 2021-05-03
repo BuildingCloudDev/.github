@@ -1,5 +1,5 @@
 ---
-name: "\U00002749 Question"
+name: "\U00002049 Question"
 about: Ask a question
 title: "[Q&A]"
 labels: project_management
