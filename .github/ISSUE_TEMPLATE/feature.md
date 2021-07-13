@@ -1,7 +1,7 @@
 ---
 name: "\U00002611 Feature"
 about: Feature: collection of smaller tasks with a clear value for the end user
-title: "[MEMO]"
+title: "[FEATURE]"
 labels: feature
 assignees: ''
 
